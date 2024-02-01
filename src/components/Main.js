@@ -1,5 +1,4 @@
 import {useState} from 'react'
-import AOS from 'aos';
 import profile from '../assets/my-profile.jpg';
 import resume from '../assets/resume.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

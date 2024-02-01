@@ -1,5 +1,4 @@
-export default function WorkExpCard(props){
-    
+export default function WorkExpCard(props){ 
     return (
     <div
       data-aos="fade-up"
