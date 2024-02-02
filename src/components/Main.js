@@ -9,11 +9,11 @@ export default function Main () {
     return (
         <>
         <div id="main" className="flex w-full h-screen flex-col md:flex-row gap-5 items-center justify-center text-white relative">
-            <div className='md:w-3/6 md:p-2'>
+            <div className='mx-10 md:w-2/6 md:p-2'>
                 <img data-aos="flip-right" data-aos-duration="3000" data-aos-offset="200"  src={profile} alt="profile" className='rounded-full' />
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="2000" data-aos-offset="100" >
-                <div className="md:flex flex-col w-full mt-8">
+                <div className="flex flex-col w-full mt-8">
                   <h1 className="text-xl text-gray-400">Hi, I'm</h1>
                   <h1 className="text-2xl font-bold">Adrian Alejo</h1>
                   <p class="text-xl font-bold text-gray-300">Software Engineer</p>
