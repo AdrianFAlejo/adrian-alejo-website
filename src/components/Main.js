@@ -8,9 +8,9 @@ export default function Main () {
 
     return (
         <>
-        <div id="main" className="flex w-full h-screen flex-col md:flex-row gap-5 items-center justify-center text-white relative">
-            <div className='mx-10 md:w-2/6 md:p-2'>
-                <img data-aos="flip-right" data-aos-duration="3000" data-aos-offset="200"  src={profile} alt="profile" className='rounded-full' />
+        <div id="main" className="flex w-full h-screen flex-col md:flex-row items-center justify-center text-white relative">
+            <div className='md:w-2/6 md:p-2 mx-20'>
+                <img data-aos="flip-right" data-aos-duration="3000" data-aos-offset="200"  src={profile} alt="profile" className='rounded-full w-full h-auto md:object-cover'/>
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="2000" data-aos-offset="100" >
                 <div className="flex flex-col w-full mt-8">
