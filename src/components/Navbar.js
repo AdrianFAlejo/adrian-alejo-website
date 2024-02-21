@@ -7,8 +7,8 @@ export default function Navbar() {
             <img src={icon} className="App-logo w-7 rounded-full md:w-10" alt="logo" />
             <ul className="hidden md:flex">
             <li className="p-4"><a href="#main" className="hover:underline">About</a></li>
-            <li className="p-4"><a href="#workexp" className="hover:underline">Work Experiences</a></li>
-            <li className="p-4"><a href="#school" className="hover:underline">Educational Background</a></li>
+            <li className="p-4"><a href="#workexp" className="hover:underline">Experiences</a></li>
+            <li className="p-4"><a href="#school" className="hover:underline">Education</a></li>
             <li className="p-4"><a href="#skills" className="hover:underline">Skills</a></li>
             <li className="p-4"><a href="#certs" className="hover:underline">Certifications</a></li>
             </ul>
