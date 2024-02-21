@@ -27,7 +27,7 @@ export default function WorkExpCard(props){
       {
         (!isMobile && props.icon) &&
         <div className="flex-col md:flex items-center">
-          <h1 className="font-bold md:pb-4 text-lg items-center">Projects:</h1>
+          <h1 className="font-bold md:pb-4 text-lg items-center">Projects</h1>
           <div className="flex-row w-full md:flex bg-yellow mr-5">
             <div className="flex-col md:flex items-center">
                 <img

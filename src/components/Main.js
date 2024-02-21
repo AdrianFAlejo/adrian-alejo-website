@@ -1,5 +1,5 @@
 import profile from '../assets/my-profile.jpg';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/alejo-cv.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {  faFacebook, faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import HrCurve from './HrCurve';
