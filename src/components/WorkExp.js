@@ -32,11 +32,11 @@ export default function WorkExp(){
                     showHooliDescription &&
                         <div className="bg-gray-700 p-4 rounded-md">
                             <p>
-                                <span className="font-bold">Significant other search</span> (SOS) was built using React.js, React Native, and Scala programming languages. It has web and mobile versions, and the primary objective is to help individuals find a significant other. . The main feature of the application is to find your significant other, it has a feature like filter all the user according to your preference, find the users near you within the specific mile radius and set a calendar event once you get to know each other.
+                                <span className="font-bold">Significant Other Search</span> (SOS) was built using React.js, React Native, and Scala programming languages. It has web and mobile versions, and the primary objective is to help individuals find a significant other. . The main feature of the application is to find your significant other, it has a feature like filter all the user according to your preference, find the users near you within the specific mile radius and set a calendar event once you get to know each other.
                             </p>
                             <br/>
                             <p>
-                                <span className="font-bold">Ready agent</span> (RA) is a mobile application which assists customers discover and schedule appointments for desired real estate listings and together with a real state agent. It is now accessible on both Android and iOS devices and operates in select parts of the United States. The software, created with Flutter and Golang technologies, simplifies the process of discovering and obtaining preferred real estate possibilities.
+                                <span className="font-bold">Ready Agent</span> (RA) is a mobile application which assists customers discover and schedule appointments for desired real estate listings and together with a real state agent. It is now accessible on both Android and iOS devices and operates in select parts of the United States. The software, created with Flutter and Golang technologies, simplifies the process of discovering and obtaining preferred real estate possibilities.
                             </p>
                         </div>
                 }
